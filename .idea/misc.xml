@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/bg_receiver.xml" value="0.165234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/bg_sender.xml" value="0.165234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/bgedittext.xml" value="0.165234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/btn_bg.xml" value="0.165234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic__0260061121543238907.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic__0296458971553228387.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic__071118921530177262.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic__6351336231582988861.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic_avatar_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic_icons8_facebook.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/ic_icons8_google.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/linear_bg.xml" value="0.165234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/drawable/roundshape.xml" value="0.165234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_chat_detail.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_group_chat.xml" value="0.142578125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_main.xml" value="0.153125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_settings.xml" value="0.12" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/fragment_chats.xml" value="0.153125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/sample_receiver.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/sample_sender.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/sample_user_user.xml" value="0.153125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Whatsapp/app/src/main/res/menu/menu.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
